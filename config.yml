@@ -1,0 +1,8 @@
+TipPrivateKey: ""
+PrivateKey: ""
+PrivateKey2: ""
+MultiWalletBuyVal: 0.1
+Https: "https://mainnet.helius-rpc.com/?api-key="
+ComputeUnitPrice: 500002
+ComputeUnitLimit: 120000
+EncryptionKey: "BZNV4455kt3QlpD9hs7MJ2vX88nF6yR"
